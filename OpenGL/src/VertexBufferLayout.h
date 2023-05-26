@@ -1,4 +1,4 @@
-#pragma VertexBufferLayout ¶¥µã»º´æ²¼¾Ö
+#pragma once
 
 #include <vector>
 #include "Renderer.h"
